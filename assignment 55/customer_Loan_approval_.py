@@ -154,7 +154,7 @@ knn_accuracy = accuracy_score(
     knn_prediction
 )
 
-print("KNN Accuracy:",
+print("KNN Accuracy is:",
       knn_accuracy)
 
 
