@@ -14,7 +14,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 
 from sklearn.ensemble import VotingClassifier
-
 from sklearn.metrics import accuracy_score
 
 
